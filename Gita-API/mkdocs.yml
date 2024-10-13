@@ -2,6 +2,8 @@ site_name: Gita-API
 extra_javascript:
   - js/widgetla.js
   - js/disable_shortcuts.js
+nav:
+  - Home: index.md
 theme:
   name: material
   palette:
